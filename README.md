@@ -15,3 +15,7 @@ Video 1: I watched to help you along the way (put video speed to 2x) https://you
 Video 2: You NEED to install SWING and Windows builder (put video speed to 2x) https://www.youtube.com/watch?v=oeswfZz4IW0
 
 Notes: link to tis project: https://github.com/Hunter14149/FinalProjectCSC191
+
+
+
+https://youtu.be/CmbdOfYNc3g
