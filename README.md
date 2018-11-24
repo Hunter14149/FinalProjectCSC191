@@ -16,6 +16,4 @@ Video 2: You NEED to install SWING and Windows builder (put video speed to 2x) h
 
 Notes: link to tis project: https://github.com/Hunter14149/FinalProjectCSC191
 
-
-
-https://youtu.be/CmbdOfYNc3g
+Made Project with java 8
