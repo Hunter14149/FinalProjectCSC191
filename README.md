@@ -1,4 +1,7 @@
 # FinalProjectCSC191
+
+DOWNLOAD THE ZIP, Disregard anything else.
+
 These are the files for the final group project for course 'CSC-191-03-F18: Intro Resrch Top in CSC'.
 
 For Group Members: Instructions to download Eclipse & JDK(Java Development Kit) & SWING(may not need), written by Hunter Allen 
