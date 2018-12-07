@@ -1,0 +1,42 @@
+[  
+    {  
+        "command":"help",
+        "consoleText":[  
+            " localhost> help",
+            " alt show alternative commands",
+            " exit exits this localhost",
+	    " help display this menu",
+            " ls list file in this directory",
+            " type: cd-[file] type out file contents",
+            " localhost>",
+	    ""
+        ],
+    },
+    {  
+        "command":"alt",
+        "consoleText":[  
+            " localhost> alt",
+            " alt display these commands",
+            " clr clear the screen",
+            " localhost>",
+            ""
+        ],
+    },
+    {  
+        "command":"clr",
+        "consoleText":[
+            " localhost>",
+	    ""
+        ],
+    },
+    {  
+        "command":"ls",
+        "consoleText":[  
+            " localhost> ls",
+            " File list:",
+            " FridayPlans",
+            " localhost>",
+	    ""
+        ],
+    }
+]

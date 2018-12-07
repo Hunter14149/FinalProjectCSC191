@@ -1,0 +1,167 @@
+[  
+    {  
+        "level":"0",
+	"question":[  
+            " Local System Startup",
+	    " Bootup Complete",
+            " Version 1.0.0",
+	    " Version 2018 all rights reserved",
+	    "",
+            " Game Story:",
+            " Co-worker has recently by disappeared",
+  	    " You need to hack into your companies",
+            " Computer systems to find the last email",
+            " Indicating where your Co-worker might be",
+            "",
+     	    " type 'get started help' for help",
+ 	    "localhost>",
+ 	    ""
+        ],
+    },
+    {  
+        "level":"1",
+        "question":[  
+            "",
+	    "Level 0 passed>",
+            "",
+            " bring up the list of files on this the system",
+            " Lets see if we can find out what Jim Hardwell was hiding"
+	    "localhost>",
+	    ""
+        ],
+    },
+    {  
+        "level":"2",
+        "question":[  
+            "",
+	    "Level 1 passed>",
+	    "",
+	    " Date: December 2, 2018",
+	    " last opened, December 4, 2018",
+	    "",
+ 	    " self-note I have just come across the company's secret files",
+	    " I wonder what there hiding in there. If only I knew the password to get in",
+ 	    " my friend Chris Johnson has access. I think he said one time.",
+	    " That every employee's password is there first name and employ number",
+	    " and there user name is they're full name.",
+	    " Chris's employee number is 267",
+	    "",
+	    "---End of File---",
+	    "",
+	    " To open the company's secure systems you need to type 'Request Access'",
+	    "localhost>",
+            ""
+        ],
+    },
+    {  
+        "level":"3",
+        "question":[  
+            "",
+	    "Level 2 passed>",
+	    "",
+	    " Welcome Employee. Please type you're company username",
+ 	    " Username: ",
+	    "localhost>",
+            ""
+        ],
+    },
+    {  
+        "level":"4",
+        "question":[  
+            "",
+	    "Level 3 passed>",
+ 	    "",
+            " Password Required",
+            "",
+ 	    " Password:",
+	    "localhost>",
+            ""
+        ],
+    },
+    {  
+        "level":"5",
+        "question":[  
+            "",
+	    "Level 4 passed>",
+ 	    "",
+ 	    " Welcome Chris Johnson!",
+ 	    "",
+   	    " You are now in the company's secure area",
+	    " You can now bring up secure files 'ls-secured'",
+ 	    "localhost>",
+            ""
+        ],
+    },
+    {  
+        "level":"6",
+        "question":[  
+            "",
+	    "Level 5 passed>",
+            "",
+	    " localhost> ls-secured",
+            " File list:",
+            " decemberRecords",
+            " localhost>",
+	    ""
+        ],
+    },
+    {  
+        "level":"7",
+        "question":[  
+            "",
+	    "Level 6 passed>",
+            "",
+	    " Date: December 3, 2018",
+	    " last opened, December 5, 2018",
+	    "",
+ 	    " A company employee named Jim Hardwell has just been caught lurking around",
+	    " our UFO crash site. I'll call the CEO to see how we should handle him!",
+	    "Crash site #: 00312-01",
+	    "",
+	    "---End of File---",
+	    "",
+	    " To open find out the location of the crash site type 'Request Location'",
+	    "localhost>",
+            ""
+        ],
+    },
+    {  
+        "level":"8",
+        "question":[  
+            "",
+	    "Level 7 passed>",
+            "",
+            " ID Required",
+            "",
+ 	    " Location ID:",
+	    "localhost>",
+            ""
+        ],
+    },
+    {  
+        "level":"9",
+        "question":[  
+            "",
+	    "Level 8 passed>",
+            "",
+            " Location Found:",
+            " 100 E Queen St Hampton University",
+	    "",
+	    " We need to request the police to rescue Jim type: 'Access-Emergency-Needed'",
+            "localhost>",
+            ""
+        ],
+    },
+    {  
+        "level":"10",
+        "question":[  
+            "",
+	    "Level 9 passed>",
+            "",
+            " Send out Emergency services to the UFO crash site to save Jim",
+            " type: emergencyService Go - [location]",
+            "localhost>",
+            ""
+        ],
+    },
+]
